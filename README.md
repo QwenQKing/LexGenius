@@ -1,2 +1,2 @@
-# CNLegalBench
-
+Chinese LegalBench
+Chinese LegalBench is a comprehensive expert-level benchmark designed to evaluate the legal general intelligence (GI) of large language models (LLMs) in the Chinese legal domain. It introduces a structured and interpretable evaluation framework that assesses LLMs across 7 legal dimensions, 11 tasks, and 20 atomic legal abilities, covering both hard and soft aspects of legal cognition.# CNLegalBench
