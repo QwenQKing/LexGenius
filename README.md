@@ -3,7 +3,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-LexGenius-black.svg)](https://github.com/QwenQKing/LexGenius)
+[![GitHub](https://img.shields.io/badge/GitHub-LexGenius-0A66C2.svg)](https://github.com/QwenQKing/LexGenius)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/QwenQKing/LexGenius)
 [![HF Models](https://img.shields.io/badge/HF%20Models-HuggingFace-yellow.svg)](https://huggingface.co/QwenQKing/LexGenius)
 
