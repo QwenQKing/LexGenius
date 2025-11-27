@@ -31,17 +31,17 @@
 By integrating the **three-level structure of seven legal dimensions, eleven tasks, and twenty abilities**, **LexGenius** provides a **structured legal intelligence evaluation framework** that supports systematic capability assessment and cross-model comparative analysis across diverse large-scale LLMs.
 
 ## Experimental Results
-**Comparison of the 12 SOTA LLMs with human experts on 7 core dimensions of legal intelligence:**
+**Comparison of the 12 SOTA LLMs with human experts on **7 core dimensions** of legal intelligence:**
 <div align="center">
   <img src="static/images/7 core dimensions.png" width="70%"/>
 </div>
 
-**Performance of 12 LLMs and human experts on 11 legal tasks, showing a significant gap between LLMs and humans:**
+**Performance of 12 LLMs and human experts on **11 legal tasks**, showing a significant gap between LLMs and humans:**
 <div align="center">
   <img src="static/images/11 legal tasks.png" width="100%"/>
 </div>
 
-**Average ranking and average score ranking of the 12 SOTA LLMs in the 20 legal intelligence abilities.:**
+**Average ranking and average score ranking of the 12 SOTA LLMs in the **20 legal intelligence abilities**.:**
 <div align="center">
   <img src="static/images/20 legal intelligence abilities.png" width="80%"/>
 </div>
