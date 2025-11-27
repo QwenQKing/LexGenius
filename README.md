@@ -33,7 +33,7 @@ By integrating the **three-level structure of seven legal dimensions, eleven tas
 ## Experimental Results
 **Comparison of the 12 SOTA LLMs with human experts on 7 core dimensions of legal intelligence:**
 <div align="center">
-  <img src="static/images/7 core dimensions.png" width="100%"/>
+  <img src="static/images/7 core dimensions.png" width="70%"/>
 </div>
 
 **Performance of 12 LLMs and human experts on 11 legal tasks, showing a significant gap between LLMs and humans:**
@@ -43,5 +43,5 @@ By integrating the **three-level structure of seven legal dimensions, eleven tas
 
 **Average ranking and average score ranking of the 12 SOTA LLMs in the 20 legal intelligence abilities.:**
 <div align="center">
-  <img src="static/images/20 legal intelligence abilities.png" width="100%"/>
+  <img src="static/images/20 legal intelligence abilities.png" width="80%"/>
 </div>
