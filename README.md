@@ -1,2 +1,31 @@
-Chinese LegalBench
-Chinese LegalBench is a comprehensive expert-level benchmark designed to evaluate the legal general intelligence (GI) of large language models (LLMs) in the Chinese legal domain. It introduces a structured and interpretable evaluation framework that assesses LLMs across 7 legal dimensions, 11 tasks, and 20 atomic legal abilities, covering both hard and soft aspects of legal cognition.# CNLegalBench
+# LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-LexGenius-0A66C2.svg)](https://github.com/QwenQKing/LexGenius)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/QwenQKing/LexGenius)
+[![HF Models](https://img.shields.io/badge/HF%20Models-HuggingFace-yellow.svg)](https://huggingface.co/QwenQKing/LexGenius)
+
+### **LexGenius**: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
+
+[📄 Paper](https://arxiv.org/abs/2511.01016) | [🚀 Quick Start](#quick-start-prompt-r1) | [💬 Contact](mailto:wenjinliu23@outlook.com)
+
+</div>
+
+---
+
+## Overview
+
+<div align="center">
+  <img src="static/image/fig1.png" width="80%"/>
+</div>
+
+**LexGenius** addresses a fundamental challenge in applying large language models (LLMs) to the legal domain—the absence of a professional, systematic, and trustworthy evaluation framework for legal intelligence. **LexGenius** is an **expert-level benchmarking suite** designed for Chinese legal scenarios, assessing LLMs across diverse legal tasks and capability dimensions to measure their understanding, reasoning, and normative application skills. Through rigorous dataset construction, realistic legal problem design, and human–LLM collaborative validation, **LexGenius** significantly enhances the objectivity, discriminability, and reliability of legal intelligence evaluation, offering actionable insights for model development, optimization, and deployment—without requiring users to build separate assessment systems.
+
+
+<div align="center">
+  <img src="static/image/fig2.png" width="90%"/>
+</div>
+
+By integrating the **three-level structure of seven legal dimensions, eleven tasks, and twenty abilities**, **LexGenius** provides a **structured legal intelligence evaluation framework** that supports systematic capability assessment and cross-model comparative analysis across diverse large-scale LLMs.
