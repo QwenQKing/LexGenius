@@ -131,7 +131,7 @@
     <div class="container">
       <div id="results-carousel" class="carousel results-carousel">
 
-       <!-- Slide 1: Figure 1 -->
+       <!-- Slide 1 -->
 <div class="item">
   <img src="static/images/compare.png" alt="Comparison between LLMs and human legal experts in LexGenius"/>
   <h2 class="subtitle has-text-centered">
@@ -140,93 +140,76 @@
   </h2>
 </div>
 
-        <!-- Slide 2: Figure 2 -->
+        <!-- Slide 2 -->
         <div class="item">
-          <img src="static/images/2-QA.png" alt="Comparison of prompting and optimization methods"/>
-          <h2 class="subtitle has-text-centered">
-            Comparison of different methods for improving prompt understanding and task adaptability of LLMs:
-            human–LLM interaction, prompt engineering, fine-tuning optimization, and the collaborative automatic prompting
-            interaction framework Prompt-R1.
-          </h2>
-        </div>
+  <img src="static/images/Framework.png" alt="LexGenius framework of dimensions, tasks, and abilities"/>
+  <h2 class="subtitle has-text-centered">
+    The LexGenius three-level framework, consisting of seven legal dimensions,
+    eleven task types, and twenty fine-grained abilities for evaluating legal intelligence in LLMs.
+  </h2>
+</div>
 
         <!-- Slide 3: Figure 3 -->
         <div class="item">
-          <img src="static/images/3-Comparison.png" alt="Prompt-R1 framework overview"/>
-          <h2 class="subtitle has-text-centered">
-            Overview of the Prompt-R1 framework. A small-scale LLM acts as an agent, interacting with a
-            large-scale LLM environment through multi-turn prompts. A double-constrained reward is used to optimize the
-            prompt agent via end-to-end reinforcement learning.
-          </h2>
-        </div>
+  <img src="static/images/MCQ.png" alt="LexGenius MCQ construction workflow"/>
+  <h2 class="subtitle has-text-centered">
+    The MCQ construction workflow of LexGenius, combining LLM-assisted generation
+    with multi-stage human evaluation across data collection, rule construction,
+    preliminary screening, and final selection.
+  </h2>
+</div>
 
-        <!--  Slide 4: Your Table -->
+        <!--  Slide 4 -->
         <div class="item">
-          <img src="static/images/4-table1.png" alt="Prompt-R1 comparison table"/>
-          <h2 class="subtitle has-text-centered">
-            Performance comparison of <strong>Prompt-R1</strong> with state-of-the-art prompting and fine-tuning
-            methods on eight public training datasets, including multi-hop reasoning (2WikiMultihopQA, HotpotQA),
-            mathematical computation (GSM8K, DAPO Math), standard QA (MusiQue, PopQA), and text generation
-            tasks (BookSum, WritingPrompts). <strong>Δ↑</strong> denotes the improvement over the GPT-4o-mini
-            baseline; higher values indicate stronger performance. Bold numbers mark the best results, and all
-            metrics are reported in percentage (%).
-          </h2>
-        </div>
+  <img src="static/images/Distribution.png" alt="LexGenius data distribution across laws, dimensions, tasks, and abilities"/>
+  <h2 class="subtitle has-text-centered">
+    Data distribution of LexGenius across Chinese laws and the hierarchical structure of dimensions,
+    tasks, and abilities, showing balanced yet diverse coverage for evaluating legal intelligence in LLMs.
+  </h2>
+</div>
       
-        <!-- Slide 5: OOD Table comparison -->
+        <!-- Slide 5 -->
 <div class="item">
-  <img src="static/images/5-table2.png" alt="Prompt-R1 out-of-distribution comparison table"/>
+  <img src="static/images/7 core dimensions.png" alt="Comparison of 12 SOTA LLMs and human experts on seven core dimensions of legal intelligence"/>
   <h2 class="subtitle has-text-centered">
-    Performance comparison of <strong>Prompt-R1</strong> with selected baselines on four out-of-distribution
-    datasets across multiple tasks, including multi-hop reasoning (TriviaQA), mathematical computation (MathQA),
-    standard QA (SQuAD v2), and text generation (XSum). Higher values indicate improved robustness and
-    generalization beyond in-distribution training data.
+    Comparison of twelve state-of-the-art LLMs with human legal experts across
+    seven core dimensions of legal intelligence, revealing significant performance gaps.
   </h2>
 </div>
-        <!-- Slide 6: Radar chart comparison -->
+        <!-- Slide 6 -->
+
 <div class="item">
-  <img src="static/images/6-radar.png" alt="Radar chart: LLM performance with and without Prompt-R1"/>
+  <img src="static/images/11 legal tasks.png" alt="Performance of 12 LLMs and human experts on 11 legal tasks"/>
   <h2 class="subtitle has-text-centered">
-    Comparison of six large language models <strong>with</strong> and <strong>without</strong> the Prompt-R1 agent
-    across eight datasets. Metrics include F1 for multi-hop reasoning (2Wiki, Hotpot) and standard QA
-    (MusiQue, PopQA), EM for mathematical computation (GSM8K, DAPO), and SSim for text generation
-    (BookSum, WritingPrompts). Prompt-R1 brings consistent improvements across all tasks.
+    Performance comparison of twelve LLMs and human experts across eleven legal tasks,
+    revealing a substantial performance gap. DeepSeek-R1 and DeepSeek-V3 achieve the highest scores,
+    with Task 3 being the most challenging for all models.
   </h2>
 </div>
-        <!-- Slide 7: Average EM / F1 / SSim with and without Prompt-R1 -->
+
+        <!-- Slide 7 -->
 <div class="item">
-  <img src="static/images/7-avg.png"
-       alt="Average EM, F1, and SSim scores for six LLMs on OOD datasets, with and without Prompt-R1 agent"/>
+  <img src="static/images/20 legal intelligence abilities.png" alt="Ranking of 12 LLMs on twenty legal intelligence abilities"/>
   <h2 class="subtitle has-text-centered">
-    Comparison of the average <strong>EM</strong>, <strong>F1</strong>, and <strong>SSim</strong> scores for six
-    large language models on out-of-distribution datasets, together with the averages obtained when these
-    models are equipped with the <strong>Prompt-R1</strong> agent. The hatched bars indicate the performance
-    after applying Prompt-R1, showing consistent gains across all metrics.
+    Average ranking and mean score ranking of twelve state-of-the-art LLMs across
+    twenty legal intelligence abilities, highlighting notable performance differences.
   </h2>
 </div>
-        <!-- Slide 8: Ablation Study -->
+        <!-- Slide 8 -->
 <div class="item">
-  <img src="static/images/8-ablation.png"
-       alt="Ablation study of Prompt-R1 under different configurations"/>
+  <img src="static/images/legal language indicators.png" alt="Performance of 12 LLMs on legal language indicators compared to human baseline"/>
   <h2 class="subtitle has-text-centered">
-    Ablation analysis of <strong>Prompt-R1</strong> (using GPT-4o-mini as the environment), evaluated on
-    both in-distribution and out-of-distribution datasets. The study compares the full Prompt-R1 system
-    with three reduced variants: removing the LLM-as-Environment component (<strong>w/o Env.</strong>),
-    disabling reinforcement learning (<strong>w/o R.L.</strong>), and removing the Prompt-R1 agent
-    (<strong>w/o Agent</strong>). The full model consistently achieves the strongest performance across
-    all metrics.
+    Performance of twelve LLMs across nine legal language indicators, showing notable gaps
+    from the human baseline. Even the top-performing models, DeepSeek-R1 and DeepSeek-V3,
+    fall short of human proficiency in mastering legal language.
   </h2>
 </div>
-        <!-- Slide 9: Training process, interaction turns, and metric comparison -->
+        <!-- Slide 9 -->
 <div class="item">
-  <img src="static/images/9-training.png"
-       alt="Training process, interaction turns, and comparisons of EM, F1, and SSim for Prompt-R1"/>
+  <img src="static/images/correlation analysis.png" alt="Correlation analysis of legal intelligence abilities, tasks, and dimensions in LexGenius"/>
   <h2 class="subtitle has-text-centered">
-    (a–b) Training process and interaction turns of the <strong>Prompt-R1</strong> agent
-    under different environments (GPT-4o-mini and GPT-OSS-20B).  
-    (c–e) Comparison of various Prompt-R1 variants with baselines on <strong>average EM</strong>, <strong>average F1</strong>,
-    and <strong>average SSim</strong> across in-distribution datasets, showing consistent improvements brought by the
-    Prompt-R1 agent.
+    Correlation analysis of legal intelligence across abilities, tasks, and dimensions in LexGenius,
+    based on the performance patterns of twelve LLMs.
   </h2>
 </div>
 
