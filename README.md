@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <img src="static/images/fig2.png" width="90%"/>
+  <img src="static/images/Framwork.png" width="90%"/>
 </div>
 
 By integrating the **three-level structure of seven legal dimensions, eleven tasks, and twenty abilities**, **LexGenius** provides a **structured legal intelligence evaluation framework** that supports systematic capability assessment and cross-model comparative analysis across diverse large-scale LLMs.
