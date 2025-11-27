@@ -45,3 +45,20 @@ By integrating the **three-level structure of seven legal dimensions, eleven tas
 <div align="center">
   <img src="static/images/20 legal intelligence abilities.png" width="80%"/>
 </div>
+
+
+## BibTex
+
+If you find this work is helpful for your research, please cite:
+
+```bibtex
+@misc{liu2025lexgeniusbenchmark,
+      title={LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence},
+      author={Wenjin Liu and Haoran Luo and Xueyuan Lin and Haoming Liu and Tiesunlong Shen and Jiapu Wang and Rui Mao and Erik Cambria},
+      year={2025},
+      eprint={xxxx.xxxxx},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/xxxx.xxxxx}
+}
+```
