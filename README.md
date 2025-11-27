@@ -18,7 +18,7 @@
 ## Overview
 
 <div align="center">
-  <img src="static/images/compare.png" width="80%"/>
+  <img src="static/images/compare.png" width="60%"/>
 </div>
 
 **LexGenius** addresses a fundamental challenge in applying large language models (LLMs) to the legal domain—the absence of a professional, systematic, and trustworthy evaluation framework for legal intelligence. **LexGenius** is an **expert-level benchmarking suite** designed for Chinese legal scenarios, assessing LLMs across diverse legal tasks and capability dimensions to measure their understanding, reasoning, and normative application skills. Through rigorous dataset construction, realistic legal problem design, and human–LLM collaborative validation, **LexGenius** significantly enhances the objectivity, discriminability, and reliability of legal intelligence evaluation, offering actionable insights for model development, optimization, and deployment—without requiring users to build separate assessment systems.
