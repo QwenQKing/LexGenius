@@ -1,4 +1,4 @@
-# LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
+# LexGenius: Evaluating Legal Intelligence in LLMs
 
 <div align="center">
 
