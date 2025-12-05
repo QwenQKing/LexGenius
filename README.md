@@ -1,4 +1,4 @@
-# LexGenius: Evaluating Legal Intelligence in LLMs
+# LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 [![HF Models](https://img.shields.io/badge/HF%20Models-HuggingFace-yellow.svg)](https://huggingface.co/QwenQKing/LexGenius)
 [![Email Contact](https://img.shields.io/badge/Contact-wenjinliu23%40outlook.com-red.svg?logo=microsoftoutlook&logoColor=white&style=flat)](mailto:wenjinliu23@outlook.com)
 
-### **LexGenius**: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
+
 
 
 
