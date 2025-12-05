@@ -2,14 +2,15 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.04578-b31b1b.svg)](https://arxiv.org/abs/2512.04578)
 [![Homepage](https://img.shields.io/badge/Homepage-LexGenius-0A66C2.svg)](https://github.com/QwenQKing/LexGenius)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/QwenQKing/LexGenius)
 [![HF Models](https://img.shields.io/badge/HF%20Models-HuggingFace-yellow.svg)](https://huggingface.co/QwenQKing/LexGenius)
+[![Email Contact](https://img.shields.io/badge/Contact-Email-blue?style=flat&logo=maildotru)](mailto:wenjinliu23@outlook.com)
 
 ### **LexGenius**: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
 
-[📄 Paper](https://arxiv.org/abs/2511.01016) | [🚀 Quick Start](#quick-start-prompt-r1) | [💬 Contact](mailto:wenjinliu23@outlook.com)
+
 
 </div>
 
