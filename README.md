@@ -1,15 +1,16 @@
-# LexGenius: Evaluating Legal Intelligence in LLMs
+# LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](#)
-[![Homepage](https://img.shields.io/badge/Homepage-LexGenius-0A66C2.svg)](https://github.com/QwenQKing/LexGenius)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.04578-b31b1b.svg)](https://arxiv.org/abs/2512.04578)
+[![Homepage](https://img.shields.io/badge/Homepage-LexGenius-0A66C2.svg)](https://qwenqking.github.io/LexGenius/)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-orange.svg)](https://huggingface.co/datasets/QwenQKing/LexGenius)
 [![HF Models](https://img.shields.io/badge/HF%20Models-HuggingFace-yellow.svg)](https://huggingface.co/QwenQKing/LexGenius)
+[![Email Contact](https://img.shields.io/badge/Contact-wenjinliu23%40outlook.com-red.svg?logo=microsoftoutlook&logoColor=white&style=flat)](mailto:wenjinliu23@outlook.com)
 
-### **LexGenius**: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence
 
-[📄 Paper](https://arxiv.org/abs/2511.01016) | [🚀 Quick Start](#quick-start-prompt-r1) | [💬 Contact](mailto:wenjinliu23@outlook.com)
+
+
 
 </div>
 
@@ -54,11 +55,11 @@ If you find this work is helpful for your research, please cite:
 ```bibtex
 @misc{liu2025lexgeniusbenchmark,
       title={LexGenius: An Expert-Level Benchmark for Large Language Models in Chinese Legal General Intelligence},
-      author={Wenjin Liu and Haoran Luo and Xueyuan Lin and Haoming Liu and Tiesunlong Shen and Jiapu Wang and Rui Mao and Erik Cambria},
+      author={Wenjin Liu and Haoran Luo and Xin Feng and Xiang Ji and Lijuan Zhou and Rui Mao and Jiapu Wang and Shirui Pan and Erik Cambria},
       year={2025},
-      eprint={xxxx.xxxxx},
+      eprint={2512.04578},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/xxxx.xxxxx}
+      url={https://arxiv.org/abs/2512.04578}
 }
 ```
